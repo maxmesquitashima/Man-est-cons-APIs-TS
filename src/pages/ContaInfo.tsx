@@ -13,7 +13,7 @@ const ContaInfo = () => {
       <Link to="/conta/1">
         <Text fontSize="xl">Conta</Text>
       </Link>
-      <a href="/conta/1">Link com tag a</a>
+      {/* <a href="/conta/1">Link com tag a</a> podemos usar a tag a ao invés do Link*/}
     </>
   );
 };
